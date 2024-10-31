@@ -5,7 +5,7 @@ b. Nome da disciplina: EC46C - 2024.2 <br>
 c. Nome dos integrantes do grupo: 
 
 <ul>
-<li> Eduardo Mestre da Glória(https://github.com/eemestre) <li> 
+<li> Eduardo Mestre da Glória(https://github.com/eemestre) </li> 
 <li> Henrique Gonçalves Menck(https://github.com/hmenck) </li> 
 <li> Júlia Beiroco Olivera Fantini (https://github.com/juliaSl2beiroco) </li> 
 <li> Pedro Enzo Laurynovis Gomes(https://github.com/Laurynovis) </li> 
