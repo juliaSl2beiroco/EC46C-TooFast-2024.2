@@ -18,7 +18,7 @@ A Tabela 1 a seguir contém os Requisitos Funcionais.
 | RF11 | O usuário deve poder se registrar. | Alta      | -                    |
 | RF12 | O usuário deve poder entrar em sua conta. | Alta      | RF11                    |
 | RF13 | O usuário deve poder arquivar uma lista. | Média      | -                    |
-| RF14 | O usuário deve poder arquivar uma lista. | Média      | -                    |
+| RF14 | O usuário deve poder excluir uma lista. | Média      | -                    |
 
 <p align="center">Tabela 1: Requisitos Funcionais</p>
 
